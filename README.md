@@ -94,14 +94,12 @@ My work connects **marine science, biotechnology, AI, bioinformatics, and sustai
 - Applied computational training in **bioinformatics, metagenome assembly, and data interpretation**
 
 ## 🌐 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-0B132B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadRehanKhalid)
+<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com/?user=MuhammadRehanKhalid&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadRehanKhalid&theme=tokyonight" />
+<div align="center">
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400">
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRehanKhalid&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=MuhammadRehanKhalid&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanKhalid&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+</div>
