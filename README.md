@@ -1,24 +1,53 @@
-# 💫 About Me:
-I am a Microbiologist working at the intersection of AI, machine learning, and bioinformatics to address challenges in health, environmental sustainability, and life sciences.
-My work focuses on genomic data analysis, antimicrobial resistance detection using next-generation sequencing data, and GIS-based environmental modeling.
-I conduct workshops and hands-on trainings in Python, AI, and computational biology, empowering students and researchers to apply data-driven approaches in biotechnology, precision agriculture, and health research.
+# 🌊 About Me
+I am a **Marine Biotechnologist** and **Bioprocess Engineer** with a strong computational edge, working at the intersection of marine science, biotechnology, AI, and bioinformatics. I focus on translating marine biological resources into scalable, data-driven solutions for health, sustainability, and blue biotechnology.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseebraza.haseebraza.7792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeebraza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-raza-344947297) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HaseebRaza-kn5gd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebraza.hr13@gmail.com)
+## 👩‍🔬 Roles
+- **Research Intern (Scottish Association for Marine Science - SAMS, UK)** — Marine analytical chemistry, bioactive compound extraction, and process optimization
+- **Researcher (La Rochelle University, France)** — Natural product extraction, purification, and structural characterization
+- **Researcher (University of Valencia, Spain)** — Marine DNA workflows, metagenomics, barcoding, and computational analysis
+- **Student Research Associate (Plant Bioenergy & Biotechnology Lab, Pakistan)** — Microalgal strain optimization, growth kinetics, and wastewater valorization
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%25white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🔬 Research Expertise
+- Marine biotechnology and blue bioeconomy applications
+- Bioprocess design, scale-up thinking, and process optimization
+- Algal biotechnology (microalgae/macroalgae) and biomass valorization
+- Metagenomics, DNA barcoding, nanopore sequencing, and omics integration
+- Bioinformatics, statistical modeling, and AI-assisted biological data analysis
+- Wastewater treatment and circular bioresource recovery
 
-# 📊 GitHub Stats:
+## 🎓 Certifications & Advanced Training
+- Advanced analytical training in **HPLC, GC-MS, and FTIR** for marine compound profiling
+- **NMR-based** characterization and organic chemistry workflows
+- Hands-on molecular training in **PCR, DNA extraction, barcoding, and sequencing**
+- Applied computational training in **bioinformatics, metagenome assembly, and data interpretation**
+
+## 🧰 Skill Set
+![Marine Biotechnology](https://img.shields.io/badge/Marine%20Biotechnology-0077B6?style=for-the-badge)
+![Bioprocess Engineering](https://img.shields.io/badge/Bioprocess%20Engineering-2E7D32?style=for-the-badge)
+![Algal Biotechnology](https://img.shields.io/badge/Algal%20Biotechnology-00A86B?style=for-the-badge)
+![Wastewater Treatment](https://img.shields.io/badge/Wastewater%20Treatment-0288D1?style=for-the-badge)
+
+![HPLC](https://img.shields.io/badge/HPLC-455A64?style=for-the-badge)
+![GC-MS](https://img.shields.io/badge/GC--MS-5D4037?style=for-the-badge)
+![FTIR](https://img.shields.io/badge/FTIR-6D4C41?style=for-the-badge)
+![NMR](https://img.shields.io/badge/NMR-8D6E63?style=for-the-badge)
+
+![PCR](https://img.shields.io/badge/PCR-8E24AA?style=for-the-badge)
+![DNA Barcoding](https://img.shields.io/badge/DNA%20Barcoding-6A1B9A?style=for-the-badge)
+![Nanopore Sequencing](https://img.shields.io/badge/Nanopore%20Sequencing-4A148C?style=for-the-badge)
+![Metagenomics](https://img.shields.io/badge/Metagenomics-7B1FA2?style=for-the-badge)
+
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-1E88E5?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F57C00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![GIS Modeling](https://img.shields.io/badge/GIS%20Modeling-388E3C?style=for-the-badge&logo=qgis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadRehanKhalid)
+
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRehanKhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=MuhammadRehanKhalid&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanKhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadRehanKhalid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
