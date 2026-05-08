@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Microbiologist working at the intersection of AI, machine learning, and bioinformatics to address challenges in health, environmental sustainability, and life sciences.
 My work focuses on genomic data analysis, antimicrobial resistance detection using next-generation sequencing data, and GIS-based environmental modeling.
-I conduct workshops and hands-on trainings in Python, AI, and computational biology, empowering students and researchers to apply data-driven approaches in biotechnology, precision agriculture, and health research.<br>
+I conduct workshops and hands-on trainings in Python, AI, and computational biology, empowering students and researchers to apply data-driven approaches in biotechnology, precision agriculture, and health research.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/haseebraza.haseebraza.7792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haseeebraza) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-raza-344947297) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HaseebRaza-kn5gd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haseebraza.hr13@gmail.com)
@@ -14,11 +14,11 @@ I conduct workshops and hands-on trainings in Python, AI, and computational biol
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haseeb-raza-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haseeb-raza-13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-raza-13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRehanKhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=MuhammadRehanKhalid&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanKhalid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haseeb-raza-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadRehanKhalid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
