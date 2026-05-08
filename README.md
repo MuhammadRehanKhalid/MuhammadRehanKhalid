@@ -71,6 +71,6 @@ My work connects **marine science, biotechnology, AI, bioinformatics, and sustai
 [![GitHub](https://img.shields.io/badge/GitHub-0B132B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadRehanKhalid)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRehanKhalid&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![GitHub Streak Stats](https://nirzak-streak-stats.vercel.app/?user=MuhammadRehanKhalid&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanKhalid&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadRehanKhalid&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=MuhammadRehanKhalid&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRehanKhalid&layout=compact&theme=tokyonight&hide_border=true)
