@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00B4D8,50:0077B6,100:023E8A&text=Muhammad%20Rehan%20Khalid&fontColor=ffffff&fontSize=52&animation=fadeIn&desc=Marine%20Biotechnology%20%7C%20Bioprocess%20Engineering%20%7C%20Bioinformatics&descAlignY=66" />
+  <img 
+    width="100%" 
+    alt="Marine Banner"
+    src="https://github.com/user-attachments/assets/391f6262-a4a8-446b-b891-aa80d63053bd"
+  />
 </p>
 
 # 🌊 About Me
