@@ -2,7 +2,7 @@
   <img 
     width="100%" 
     alt="Marine Banner"
-    src="https://github.com/user-attachments/assets/391f6262-a4a8-446b-b891-aa80d63053bd"
+    src="https://github.com/user-attachments/assets/d8dc3a2b-483d-4916-8bf0-ddad5b9e75e4"
   />
 </p>
 
